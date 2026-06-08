@@ -1,15 +1,16 @@
 {
-  "keywordFileContentHash": "03A3C49B5B3B5B06F95EE4BEEBAA15D3",
+  "keywordFileContentHash": "97E9330E94AD6FFE3132870CE61CA5F3",
   "keywordClasses": [
     {
       "name": "controller.PersonController",
       "keywordMethods": [
         {
           "name": "getPersons",
-          "parameters": []
+          "parameters": [],
+          "javadoc": ""
         }
       ]
     }
   ],
-  "javadocParsed": false
+  "javadocParsed": true
 }

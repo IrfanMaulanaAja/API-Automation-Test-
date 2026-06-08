@@ -21,8 +21,6 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.testobject.ResponseObject
 import groovy.json.JsonSlurper
 
-
-
 public class PersonController {
 	@Keyword
 	List getPersons() {

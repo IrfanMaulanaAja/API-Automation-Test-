@@ -18,3 +18,6 @@ How to running using test suites :
 - Click folder test suites
 - Click APIpersons
 - Click Run or Ctrl + Shift + A
+
+Link test run record : 
+- https://drive.google.com/file/d/1fjyQg1dA2QL6IU1XQeugKosTi7PeaAoZ/view?usp=sharing
